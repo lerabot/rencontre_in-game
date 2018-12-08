@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Rencontre in-game  
+![Logo](https://scontent.oculuscdn.com/v/t64.5771-25/38974457_847955728877833_8142278972600745984_n.png?)
 
-You can use the [editor on GitHub](https://github.com/lerabot/rencontre_in-game/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Rencontre in-game is a *short VR journey* in a **wierd and colorful** blend of 3D scanned environnement. You will travel throught a strange land made from my family's cabin in northern Québec and various arcades. Keep an eye open for the **pink flamingos!** Featuring various arcades (The Archives, Collossus), my father's cabin, some big rocks in New Brunsick and ...some more pink flamingos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Get it on the Oculus Store
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lerabot/rencontre_in-game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
